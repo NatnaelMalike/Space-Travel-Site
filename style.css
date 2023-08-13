@@ -442,6 +442,7 @@ cursor: pointer;
 }
 .number-wiz-title{
   grid-area: header;
+    white-space: no-wrap;
 }
 /* Layout*/
 
